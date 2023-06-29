@@ -1,0 +1,32 @@
+@media (max-width:1200px){
+
+}
+
+@media (max-width:992px){
+   html{
+    font-size: 0.9rem;
+   }
+   .button-2-aboutus{
+    margin-left: 16rem;
+}
+}
+
+@media (max-width:768px){
+    html{
+        font-size: 0.8rem;
+    }
+    .button-2-aboutus{
+        margin-left: 18rem;
+    }
+}
+
+@media(max-width:576px){
+
+    html{
+        font-size: 0.7rem;
+    }
+    .button-2-aboutus{
+        margin-left: 7rem;
+    }
+      
+}
